@@ -1,6 +1,3 @@
--- Mauricio Ize 273168
--- Cindy Evelyn Peterson 219155
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use ieee.std_logic_arith.all;

@@ -1,0 +1,24 @@
+; COE MEMORY FILE
+memory_initialization_radix = 10;
+memory_initialization_vector =
+0
+48
+15
+48
+15
+48
+15
+48
+15
+240
+0
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
