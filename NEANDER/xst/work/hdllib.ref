@@ -1,6 +1,0 @@
-AR ram ram_a //homes/mcjize/HELL/NEANDER/ipcore_dir/RAM.vhd sub00/vhpl01 1465502936
-EN placa NULL //homes/mcjize/HELL/NEANDER/PLACA.vhd sub00/vhpl04 1465502939
-AR placa behavioral //homes/mcjize/HELL/NEANDER/PLACA.vhd sub00/vhpl05 1465502940
-EN neander NULL //homes/mcjize/HELL/NEANDER/NEANDER.vhd sub00/vhpl02 1465502937
-EN ram NULL //homes/mcjize/HELL/NEANDER/ipcore_dir/RAM.vhd sub00/vhpl00 1465502935
-AR neander behavioral //homes/mcjize/HELL/NEANDER/NEANDER.vhd sub00/vhpl03 1465502938

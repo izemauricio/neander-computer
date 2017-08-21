@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "X:/HELL/NEANDER/PLACA_TB_isim_beh.exe" -prj "X:/HELL/NEANDER/PLACA_TB_beh.prj" "work.PLACA_TB" 

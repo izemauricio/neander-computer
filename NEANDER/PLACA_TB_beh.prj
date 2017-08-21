@@ -1,4 +1,0 @@
-vhdl work "ipcore_dir/RAM.vhd"
-vhdl work "NEANDER.vhd"
-vhdl work "PLACA.vhd"
-vhdl work "PLACA_TB.vhd"
