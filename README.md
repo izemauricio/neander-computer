@@ -1,5 +1,7 @@
 # neander-computer
-Xilinx ISE 14.7 environment
+Xilinx ISE Design Suite 14.7 environment, October 2013
+<br/><br/>
+Spartan-6 and Virtex-6 board
 <br/><br/>
 Neander's hypothetical computer completely built in VHDL
 <br/><br/>
