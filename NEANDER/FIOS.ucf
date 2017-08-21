@@ -1,0 +1,37 @@
+NET "clock" LOC = "B8";
+
+NET "display<0>"      LOC = "L14";
+NET "display<1>"      LOC = "H12";
+NET "display<2>"      LOC = "N14";
+NET "display<3>"      LOC = "N11";
+NET "display<4>"      LOC = "P12";
+NET "display<5>"      LOC = "L13";
+NET "display<6>"      LOC = "M12";
+NET "display<7>"      LOC = "N13";
+NET "anode<3>"       LOC = "K14";
+NET "anode<2>"       LOC = "M13";
+NET "anode<1>"       LOC = "J12";
+NET "anode<0>"       LOC = "F12";
+
+NET "button<0>"       LOC = "G12";
+NET "button<1>"       LOC = "C11";
+NET "button<2>"       LOC = "M4";
+NET "button<3>"       LOC = "A7";
+
+NET "switch<0>"      LOC = "P11";
+NET "switch<1>"      LOC = "L3";
+NET "switch<2>"      LOC = "K3";
+NET "switch<3>"      LOC = "B4";
+NET "switch<4>"      LOC = "G3";
+NET "switch<5>"      LOC = "F3";
+NET "switch<6>"      LOC = "E2";
+NET "switch<7>"      LOC = "N3";
+
+NET "led<0>"      LOC = "M5";
+NET "led<1>"      LOC = "M11";
+NET "led<2>"      LOC = "P7";
+NET "led<3>"      LOC = "P6";
+NET "led<4>"      LOC = "N5";
+NET "led<5>"      LOC = "N4";
+NET "led<6>"      LOC = "P4";
+NET "led<7>"      LOC = "G1";
